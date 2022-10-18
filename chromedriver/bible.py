@@ -1,0 +1,1 @@
+regLogin = "Test15.46.17.10.2022@gmail.com"
